@@ -160,3 +160,9 @@ Insufficient balance for checkout.
    ```sh
    java -cp bin App
    ```
+
+---
+
+## Screenshots
+![alt text](image.png)
+
